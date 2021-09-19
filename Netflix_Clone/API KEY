@@ -1,0 +1,13 @@
+API Key (v3 auth) : 2cdd14aa34025d121a00848c1ea69cfa
+
+
+[ Check this on Post Man]
+Example API Request:
+https://api.themoviedb.org/3/movie/550?api_key=2cdd14aa34025d121a00848c1ea69cfa
+
+
+API Read Access Token (v4 auth) :
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyY2RkMTRhYTM0MDI1ZDEyMWEwMDg0OGMxZWE2OWNmYSIsInN1YiI6IjYxNDZiNjFhNTVjOTI2MDAyOWU5OTgxMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gwPSXYF3hTJKXMepO2wArZCIsgmo8f2iXoTazxZm81A
+
+
+
