@@ -19,7 +19,7 @@ Scroll across and click on your favorite show to watch its Trailer. 😉
 7] Add trailer popups.
 
 ## Dependency:
-    1. react-youtube.\
+    1. react-youtube.
     2. movie-trailer.
 
 ## Run the application on local machine : local host 3000
