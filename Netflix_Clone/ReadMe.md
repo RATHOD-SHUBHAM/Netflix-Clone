@@ -16,6 +16,10 @@ Scroll across and click on your favorite show to watch its Trailer. 😉
 6] Build the nav bar.\
 7] Add trailer popups.
 
+## Dependency:
+    1. react-youtube.\
+    2. movie-trailer.
+
 ## Run the application on local machine : local host 3000
 
     - npm start
@@ -54,7 +58,6 @@ Your app is ready to be deployed!
 - Wanna know what chart.js is --> click [here](https://www.chartjs.org/docs/latest/)
 - To learn about react leaflets click [here](https://react-leaflet.js.org/docs/start-installation)
 - Why [Numeral.js](http://numeraljs.com)
-- To know more about the API. Check out [disease.sh](https://disease.sh)
 
 ### Deployment
 
