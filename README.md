@@ -1,7 +1,7 @@
 # Netflix Clone
 
 Built and Developed Netflix Clone using React JS, Reduc, JS, CSS.\
-Scroll across and click on your favorite show to watch its Trailer. 😉\
+Scroll across and click on your favorite show to watch its Trailer. 😉
 
 ## click to view the project [here](https://rathod-shubham.github.io/Netflix-Clone/)
 
@@ -18,6 +18,10 @@ Scroll across and click on your favorite show to watch its Trailer. 😉\
 5] Build the Banner.\
 6] Build the nav bar.\
 7] Add trailer popups.
+
+## Dependency:
+    1. react-youtube.\
+    2. movie-trailer.
 
 ## Run the application on local machine : local host 3000
 
@@ -57,7 +61,7 @@ Your app is ready to be deployed!
 - Wanna know what chart.js is --> click [here](https://www.chartjs.org/docs/latest/)
 - To learn about react leaflets click [here](https://react-leaflet.js.org/docs/start-installation)
 - Why [Numeral.js](http://numeraljs.com)
-- To know more about the API. Check out [disease.sh](https://disease.sh)
+- To know more about the API. Check out [TMDB](https://www.google.com/search?q=tmdb&oq=TMDB&aqs=chrome.0.69i59j69i61l3.2803j0j1&sourceid=chrome&ie=UTF-8)
 
 ### Deployment
 
