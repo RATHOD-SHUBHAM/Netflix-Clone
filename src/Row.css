@@ -1,0 +1,39 @@
+.row {
+  margin-left: 20px;
+  color: white;
+}
+
+.row_posters {
+  display: flex; /* convert column to row */
+  overflow-y: hidden; /* Prevents the entire app form moving left*/
+  overflow-x: scroll;
+  padding: 20px;
+}
+
+/* Hides scroll bar but keep row scrolable */
+.row_posters::-webkit-scrollbar {
+  display: none; /* Dont ever display any scroll bar but leep the functionality of it*/
+}
+
+.row_poster {
+  object-fit: contain;
+  width: 100%; /* Cover 100% of my screen */
+  max-height: 100px;
+  transition: transform 450ms; /* Transition effect */
+  margin-right: 10px; /* picture will not touch each other */
+}
+
+/* add hover to my row */
+.row_poster:hover {
+  transform: scale(1.08);
+  opacity: 1;
+}
+
+.row_posterLarge {
+  max-height: 250px;
+}
+
+.row_posterLarge:hover {
+  transform: scale(1.09);
+  opacity: 1;
+}
