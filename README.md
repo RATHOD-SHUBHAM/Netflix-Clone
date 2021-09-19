@@ -6,7 +6,7 @@ Scroll across and click on your favorite show to watch its Trailer. 😉
 ## click to view the project [here](https://rathod-shubham.github.io/Netflix-Clone/)
 
 
-![NetflixClone](<img width="1440" alt="Screen Shot 2021-09-19 at 2 53 07 PM" src="https://user-images.githubusercontent.com/58945964/133943077-2ea722e0-e2e7-45db-8d81-173fea97f253.png">)
+![NetflixClone](![Screen Shot 2021-09-19 at 2 53 07 PM](https://user-images.githubusercontent.com/58945964/133943234-06179cbc-8771-44f9-afe0-f0dd50f61368.png))
 
 ## Getting Started with Create React App
 
