@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Built and Developed Netflix Clone using React JS, Reduc, JS, CSS.\
+Built and Developed Netflix Clone using React JS, Redux, JS, CSS.\
 Scroll across and click on your favorite show to watch its Trailer. 😉
 
 ## click to view the project [here](https://rathod-shubham.github.io/Netflix-Clone/)
