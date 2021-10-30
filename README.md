@@ -3,10 +3,10 @@
 Built and Developed Netflix Clone using React JS, Redux, JS, CSS.\
 Scroll across and click on your favorite show to watch its Trailer. 😉
 
-## click to view the project [here](https://rathod-shubham.github.io/Netflix-Clone/)
 
-### Click [here](https://github.com/RATHOD-SHUBHAM/Machine-Learning/tree/master/Recommendation%20System) to check out the backend logic of Recommendation System in python.
+## Click [here](https://github.com/RATHOD-SHUBHAM/Machine-Learning/tree/master/Recommendation%20System) to check out the backend logic of Recommendation System in python.
 
+## Click to view the project [here](https://rathod-shubham.github.io/Netflix-Clone/)
 
 ![Screen Shot 2021-09-19 at 2 53 07 PM](https://user-images.githubusercontent.com/58945964/133943234-06179cbc-8771-44f9-afe0-f0dd50f61368.png)
 
